@@ -20,8 +20,8 @@ Connections:
 - GPIO4 sensor 1
 - GPIO0 sensor 2
 
-
 Warning: Not use GPIO2 for sensors in.
+Sensors "DHT22" is AOSONG AM2302.
 
 For store variables during wake up from sleep used RTC array of 20 bytes.
 
